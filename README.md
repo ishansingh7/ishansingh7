@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Node.js, Express.js, and Cloud**
+- 🌱  **Full Stack, DevOps and Cloud**
 - 💻 Interested in **Software Engineering, Cloud Engineering, and Cybersecurity**
 - 🌐 Portfolio: [ishansingh.com.np](https://ishansingh.com.np)
 - 📫 Reach me at: **helloishansingh@gmail.com**
